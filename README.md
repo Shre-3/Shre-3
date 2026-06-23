@@ -54,11 +54,11 @@ I build full-stack applications and enjoy working across artificial intelligence
 
 ## What I Work With
 
-- Full-stack development with the MERN stack (MongoDB, Express.js, React.js, Node.js)
-- AI application development with LLMs, RAG pipelines, LangChain, OpenAI API, and Chroma
-- Data analysis and machine learning with NumPy, Pandas, and Scikit-learn
-- REST API development using Flask and FastAPI
-- Database design and querying with MongoDB, MySQL, and PostgreSQL
-- Containerization and deployment workflows with Docker
-- Version control and API testing using Git and Postman
+- Full-stack development with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- AI application development with **LLMs, RAG pipelines, LangChain, OpenAI API, and Chroma**
+- **Data analysis** and machine learning with **NumPy, Pandas, and Scikit-learn**
+- **REST API** development using **Flask and FastAPI**
+- Database design and querying with **MongoDB, MySQL, and PostgreSQL**
+- **Containerization** and deployment workflows with **Docker**
+- **Version control** and API testing using **Git and Postman**
 - Security basics, network scanning, and Linux-based security tooling
