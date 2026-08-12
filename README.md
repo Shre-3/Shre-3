@@ -1,6 +1,6 @@
 # Hi, I'm Shreya Acharya
 
-A full-stack developer working at the intersection of AI, cybersecurity, and web development. I enjoy exploring RAG pipelines and applied ML, and have delved into research on UAV and 6G communication. Starting an MSc in Data Science soon, and picking up German along the way.
+A full-stack developer working at the intersection of AI, cybersecurity, and web development. I enjoy exploring RAG pipelines and applied ML, and have delved into research on UAV and 6G communication. These days, you'll find me pursuing an MSc in Data Science and picking up German along the way. Would be happy to connect!
 ## Tech Stack
 
 ### Languages
